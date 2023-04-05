@@ -1,0 +1,53 @@
+{
+    "job_posts": [
+      {
+        "id": "1",
+        "job_title": "Software Engineer",
+        "job_description": "We are seeking a highly motivated software engineer to join our team. The ideal candidate will have experience in developing software applications using Java and Python.",
+        "job_requirements": [
+          "Bachelor's degree in Computer Science or related field",
+          "3+ years of experience in software development",
+          "Proficiency in Java and Python",
+          "Experience with databases such as MySQL or PostgreSQL",
+          "Experience with web development frameworks such as Django or Flask",
+          "Ability to work independently and as part of a team"
+        ],
+        "job_location": "San Francisco, CA",
+        "job_type": "Full-time",
+        "job_salary": "$100,000 - $120,000"
+      },
+      {
+        "id": "2",
+        "job_title": "Marketing Manager",
+        "job_description": "We are looking for a dynamic and experienced Marketing Manager to lead our marketing efforts. The ideal candidate will have a proven track record in developing and executing successful marketing campaigns.",
+        "job_requirements": [
+          "Bachelor's degree in Marketing or related field",
+          "5+ years of experience in marketing",
+          "Experience with digital marketing channels such as social media, email marketing, and SEO",
+          "Experience with marketing analytics tools such as Google Analytics",
+          "Excellent communication and interpersonal skills",
+          "Ability to work independently and as part of a team"
+        ],
+        "job_location": "New York, NY",
+        "job_type": "Full-time",
+        "job_salary": "$90,000 - $110,000"
+      },
+      {
+        "id": "3",
+        "job_title": "Data Scientist",
+        "job_description": "We are seeking a talented Data Scientist to join our team. The ideal candidate will have experience in statistical modeling and machine learning algorithms.",
+        "job_requirements": [
+          "Master's or PhD in Computer Science, Statistics, or related field",
+          "3+ years of experience in data science",
+          "Experience with statistical modeling and machine learning algorithms",
+          "Proficiency in programming languages such as Python or R",
+          "Experience with big data technologies such as Hadoop or Spark",
+          "Excellent communication and problem-solving skills"
+        ],
+        "job_location": "Seattle, WA",
+        "job_type": "Full-time",
+        "job_salary": "$120,000 - $140,000"
+      }
+    ]
+  }
+  
